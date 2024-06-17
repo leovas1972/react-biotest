@@ -1,0 +1,134 @@
+{
+    "select": {
+        "welcome": "Welcome",
+        "label": "language selection",
+        "country": "English"
+    },
+    "footer": {
+        "adress": "Russia, 630128 Novosibirsk, Kutateladze str. 4A, office 101",
+        "telfax": "Tel/fax "
+    },
+    "contacts": {
+        "header": "Contacts"
+    },
+    "navbar": {
+        "navigation":{
+            "company": "About company",
+            "production": "Production",
+            "products": "Products",
+            "contacts": "Contacts"
+        },
+        "select": {
+            "Express test": "\"CardioBSJK\"",
+            "Procalcitonin": "ProcalcitoninTest",
+            "Price": "Price list",
+            "proBNP": "MCCI NT- proBNP"
+        }
+    },
+    "mapleflet": {
+        "city": "LLC NPO \"BioTest\" Novosibirsk",
+        "street": "st. Kutateladze, 4A, office 101."
+    },
+    "home_page": {
+        "welcome":"NPO \"BioTest\"",
+        "p-one": "Scientific developments to simplify laboratory analysis while maintaining its reliability and information content have led to the emergence of a new class of test systems. These are simple and quick-to-use tests that allow testing outside the laboratory and are collectively called point-of-care-testing.",
+        "title-two": "NPO BioTest has mastered the full development process and launched mass production of immunochromatographic rapid tests",
+        "p-two": "using “lateral flow” technology, which is a type of ROST. Carrying out the entire technological cycle of development and production of express tests up to the packaging of finished products within the BioTest Research and Production Association guarantees strict quality control at each stage of production and allows maintaining the low cost of products.",
+        "p-three": "In December 2008, NPO BioTest successfully began producing immunochromatographic test systems designed for early diagnosis of various human diseases. This is a unique development using the company’s own technical and scientific solutions, which are the company’s know-how, which are protected by a patent of the Russian Federation. Doctors highly appreciated the diagnostic capabilities of the test and especially noted the simplicity and efficiency of the technique."
+    },
+    "aboutcompany-page": {
+        "title-one": "NPO \"BioTest\"",
+        "p-strong": "NPO \"BioTest\"",
+        "p-1": "is a modern company engaged in the development and implementation of high-tech projects in the field of biotechnology and medicine.",
+        "p-2": "Founded in 2004",
+        "p-3": "Location - Novosibirsk Akademgorodok.",
+        "p-a1": "Our ",
+        "p-a2": "partners",
+        "p-a3": " Our ",
+        "p-a4": "publications",
+        "h3-1": "Our goal is the development and production of high-tech modern diagnostic rapid tests for professional medical use.",
+        "p-4": "Over the years, NPO BioTest has mastered the full technological cycle of developing non-instrumental diagnostic tests based on lateral flow technology. In December 2008, serial production of immunochromatographic test systems was launched. For these purposes, a modern line of production equipment was installed. ",
+        "h3-2": "The combination of the company's high technical and personnel potential allows NPO BioTest to produce diagnostic rapid tests at the level of world standards and maintain a low cost of products.",
+        "p-5": "The company's express tests are unique developments using its own technical and scientific solutions, which are know-how and protected by patents of the Russian Federation. The company has developed a quality system that allows us to control and guarantee consistently high quality of products at every stage of production ",
+        "title-two": "Structure of NPO \"BioTest\"",
+        "h3-3": "1. Research and production laboratory",
+        "li-1": "carrying out search research work, selecting current areas for diagnosing diseases;",
+        "li-2": "carrying out research and development work - creating prototypes of test systems, conducting preclinical and clinical trials together with leading specialized healthcare facilities;",
+        "h3-4": "2. Production area",
+        "li-3": "production laboratory: production of colloidal gold, production of recombinant proteins and conjugates with colloidal gold;",
+        "li-4": "production line: serial production of express tests up to packaging of finished products;",
+        "h3-5": "3. Quality Control Department",
+        "li-5": "quality control of raw materials, porous materials and other components at all stages of production;",
+        "li-6": "quality control of finished products;",
+        "h3-6": "4. Registration Department",
+        "li-7": "preparation of documentation for conducting State clinical and technical tests in the Ministry of Health and Social Development of the Russian Federation, obtaining Registration Certificates, certificates, etc.",
+        "h3-7": "5. Finished products warehouse",
+        "h3-8": "6. Sales office",
+        "li-8": "work with clients, consultations on working with tests;",
+        "li-9": "registration of commodity and transport documentation."
+    },
+    "ourpartners-page": {
+        "title-one": "Partners",
+        "p-1": "LLC \"Bialexa\" ",
+        "p-2": "Laboratory of Genetic Engineering, State Research Institute of Biochemistry, Siberian Branch of the Russian Academy of Medical Sciences ",
+        "p-3": "Institute of Molecular Biology of the State Scientific Center for Virology and Biotechnology \"Vector\" ",
+        "p-4": "MUZ Novosibirsk Municipal Clinical Hospital of Emergency Medical Care No. 2 ",
+        "p-5": "FGBNU \"Research Institute of Therapy and Preventive Medicine\" ",
+        "p-6": "GBUZ \"City Clinical Hospital named after M.E. Zhadkevich\" ",
+        "p-7": "FGBNU \"Tomsk National Research Medical Center of the Russian Academy of Sciences \"Research Institute of Cardiology\"\" ",
+        "p-8": "Krasnoyarsk Interdistrict Clinical Hospital of Emergency Medical Care named after N.S. Karpovich ",
+        "p-9": "FGBNU HE\"Krasnoyarsk State Medical University named after Professor V.F. Voino-Yasenetsky\" Ministry of Health of the Russian Federation ",
+        "p-10": "Russian Cardiological Society ",
+        "p-11": "All-Russian public organization \"Russian Society of Emergency Medical Care\" "
+    },
+    "products-page": {
+        "title-1": "Express test \"CardioBSJK\"",
+        "li-1": "About the test",
+        "li-2": "Reviews",
+        "li-3": "Patents",
+        "tabs-about-test": {
+            "strong":"Express test \"CardioBSJK\"",
+            "p-1": "is a test system for the rapid bedside determination of elevated levels of the early cardiac marker cardiac fatty acid binding protein (cFABP) in venous whole blood.",
+            "p-2": "The use of the CardioBSJK rapid test helps in the early diagnosis of acute myocardial infarction, especially in the first 18 hours from the onset of clinical manifestations,",
+            "li-1": "with an atypical clinical picture;",
+            "li-2": "in the absence of clear electrocardiographic criteria (absence of ST segment elevation, against the background of bundle branch blocks and cicatricial changes in the myocardium)",
+            "h3-1": "Application areas: ",
+            "li-3": "Examining a patient at home",
+            "li-4": "Reception of a patient at the clinic",
+            "li-5": "In the ambulance",
+            "li-6": "Hospital emergency room",
+            "li-7": "Lab",
+            "li-8": "Any medical department (BRIT, department of cardiology, therapy, surgery, etc.)",
+            "li-9": "FAP, first aid stations",
+            "h3-2": "Staging the test and evaluating the results",
+            "p-3": "Before starting to use the test, please read the instructions for use carefully.",
+            "ol-li-1": "150 µl of whole venous blood is added to the oval window of the tablet.",
+            "ol-li-2": "The test result is assessed visually in a rectangular window of the tablet after 15-20 minutes as positive (two bars) or negative (one bar):",
+            "p-4strong": "Functional and technical characteristics of the rapid test \"CardioBSJK\"",
+            "table": {
+            "td-1":"Operation principle",
+            "td-2":"Immunochromatography",
+            "td-3": "Volume of blood sample introduced",
+            "td-4":"150 µl",
+            "td-5": "Analysis result",
+            "td-6": "Quality, \"yes-no\"",
+            "td-7": "Evaluation of results",
+            "td-8": "Visual, within 15-20 minutes",
+            "td-9":"Hardware",
+            "td-10":"Not required",
+            "td-11": "Sensitivity",
+            "td-12":"10 ng/ml",
+            "td-13":"Portable",
+            "td-14": "Compact dimensions 94x20 mm",
+            "td-15": "Storage conditions",
+            "td-16":"4 - 25(degrees)",
+            "td-17": "Shelf life",
+            "td-18":"18 months",
+            "td-19": "Packaging",
+            "td-20-p1": "ETK-1-Ten individual sealed packages with desiccant in a cardboard box.",
+            "td-20-p2": "ETK-2-Ten individual sealed packages with a desiccant in a cardboard box + 10 syringes with a needle + 10 stickers in the medical history + 1 instructions for use.",
+            "td-20-p3": "ETK-3-Ten individual sealed packages with a desiccant in a cardboard box, ten disposable syringes containing lithium heparin, ten stickers in the medical history, instructions for use."
+            }
+        }
+    }
+}

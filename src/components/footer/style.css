@@ -1,0 +1,9 @@
+.footer {
+  padding: 20px 0;
+  background-image: url('./../../img/footer-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: #000;
+  
+}

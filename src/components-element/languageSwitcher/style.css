@@ -1,0 +1,10 @@
+.button-box{
+    padding: 5px;
+    display: flex;
+    justify-content: flex-end;
+    background-color: #89898f;
+}
+
+button {
+    margin-right: 10px;
+}

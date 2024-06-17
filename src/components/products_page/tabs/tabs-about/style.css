@@ -1,0 +1,48 @@
+p {
+    font-size: 20px;
+}
+
+p + p {
+    margin-top: 10px;
+}
+
+p:last-child{
+    margin-bottom: 10px;
+}
+
+ul li {
+    font-size: 20px;
+    list-style: square;
+    list-style-position: inside;
+}
+
+h3 {
+    margin: 10px 0;
+    font-size: 25px;
+    color: #290;
+}
+
+ol li {
+    font-size: 20px;
+    list-style-position: inside;
+}
+
+table {
+    margin: 10px 0;
+    width: 100%;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+table td {
+    border-bottom: 1px solid #ccc;
+    padding: 4px 5px;
+}
+
+@media (max-width: 370px ){
+    td {
+        font-size: 14px;
+    }
+}

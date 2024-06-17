@@ -1,0 +1,38 @@
+p {
+    font-size: 20px;
+}
+
+p + p {
+    margin-top: 10px;
+}
+
+@media (max-width: 899px){
+    .title-1{
+        font-size: 40px;
+        line-height: 1.1;
+    }
+
+    .title-2{
+        font-size: 30px;
+        line-height: 1.0;
+    }
+
+    p{
+        font-size: 15px;
+    }
+}
+@media (max-width: 450px){
+    .title-1{
+        font-size: 35px;
+        line-height: 1.0;
+    }
+
+    .title-2{
+        font-size: 20px;
+        line-height: 1.0;
+    }
+
+    p{
+        font-size: 15px;
+    }
+}

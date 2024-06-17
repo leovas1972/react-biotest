@@ -1,0 +1,134 @@
+{
+    "select": {
+        "welcome": "Bonjour utilisateur",
+        "label": "sélection de la langue",
+        "country": "French"
+    },
+    "footer": {
+        "adress": "Russland, 630128 Nowosibirsk, Kutateladze Str. 4A, Büro 101",
+        "telfax": "Telefax "
+    },
+    "contacts": {
+        "header": "Kontakte"
+    },
+    "navbar": {
+        "navigation":{
+            "company": "Über das ",
+            "production": "Produktion",
+            "products": "Unternehmen",
+            "contacts": "Kontakte"
+        },
+        "select": {
+            "Express test": "\"CardioBSJK\"",
+            "Procalcitonin": "ProcalcitoninTest",
+            "Price": "Preisliste",
+            "proBNP": "MCCI NT-proBNP"
+        }
+    },
+    "mapleflet": {
+        "city": "LLC NPO \"BioTest\" Nowosibirsk",
+        "street": "st. Kutateladze, 4A, Büro 101."
+    },
+    "home_page": {
+        "welcome":"NPO \"BioTest\"",
+        "p-one": "Wissenschaftliche Entwicklungen zur Vereinfachung der Laboranalyse unter Beibehaltung ihrer Zuverlässigkeit und ihres Informationsgehalts haben zur Entstehung einer neuen Klasse von Testsystemen geführt. Hierbei handelt es sich um einfache und schnell anzuwendende Tests, die Tests außerhalb des Labors ermöglichen und zusammenfassend als Point-of-Care-Tests bezeichnet werden.",
+        "title-two": "NPO BioTest beherrscht den gesamten Entwicklungsprozess und startet die Massenproduktion immunchromatographischer Schnelltests",
+        "p-two": "unter Verwendung der „Lateral Flow“-Technologie, einer Art ROST. Die Durchführung des gesamten technologischen Zyklus von der Entwicklung und Produktion von Expresstests bis hin zur Verpackung der fertigen Produkte innerhalb der Forschungs- und Produktionsvereinigung BioTest gewährleistet eine strenge Qualitätskontrolle in jeder Produktionsphase und ermöglicht die Aufrechterhaltung niedriger Produktkosten.",
+        "p-three": "Im Dezember 2008 begann NPO BioTest erfolgreich mit der Produktion immunchromatographischer Testsysteme zur Früherkennung verschiedener menschlicher Krankheiten. Dabei handelt es sich um eine einzigartige Entwicklung unter Verwendung firmeneigener technischer und wissenschaftlicher Lösungen, die das Know-how des Unternehmens darstellen und durch ein Patent der Russischen Föderation geschützt sind. Die Ärzte schätzten die diagnostischen Möglichkeiten des Tests sehr und hoben insbesondere die Einfachheit und Effizienz der Technik hervor."
+    },
+    "aboutcompany-page": {
+        "title-one": "NPO \"BioTest\"",
+        "p-strong": "NPO \"BioTest\"",
+        "p-1": "ist ein modernes Unternehmen, das sich mit der Entwicklung und Umsetzung von High-Tech-Projekten im Bereich Biotechnologie und Medizin beschäftigt.",
+        "p-2": "Gegründet 2004",
+        "p-3": "Standort – Nowosibirsk Akademgorodok.",
+        "p-a1": "Unsere ",
+        "p-a2": "partner",
+        "p-a3": " Unsere ",
+        "p-a4": "veröffentlichungen",
+        "h3-1": "Unser Ziel ist die Entwicklung und Produktion hochtechnologischer moderner diagnostischer Schnelltests für den professionellen medizinischen Einsatz.",
+        "p-4": "Im Laufe der Jahre hat NPO BioTest den gesamten technologischen Zyklus der Entwicklung nicht-instrumenteller diagnostischer Tests auf Basis der Lateral-Flow-Technologie gemeistert. Im Dezember 2008 wurde die Serienproduktion von immunchromatographischen Testsystemen gestartet. Zu diesen Zwecken wurde a Es wurden moderne Produktionsanlagen installiert.",
+        "h3-2": "Die Kombination des hohen technischen und personellen Potenzials des Unternehmens ermöglicht es NPO BioTest, diagnostische Schnelltests auf dem Niveau weltweiter Standards herzustellen und die Produktkosten niedrig zu halten.",
+        "p-5": "Die Expresstests des Unternehmens sind einzigartige Entwicklungen unter Verwendung eigener technischer und wissenschaftlicher Lösungen, die Know-how besitzen und durch Patente der Russischen Föderation geschützt sind. Das Unternehmen hat ein Qualitätssystem entwickelt, das uns die Kontrolle und Garantie ermöglicht.“ gleichbleibend hohe Qualität der Produkte in jeder Produktionsphase",
+        "title-two": "Struktur der NPO \"BioTest\"",
+        "h3-3": "1. Forschungs- und Produktionslabor",
+        "li-1": "Durchführung von Suchforschungsarbeiten, Auswahl aktueller Bereiche für die Diagnose von Krankheiten;",
+        "li-2": "Durchführung von Forschungs- und Entwicklungsarbeiten – Erstellung von Prototypen von Testsystemen, Durchführung präklinischer und klinischer Studien zusammen mit führenden spezialisierten Gesundheitseinrichtungen;",
+        "h3-4": "2. Produktionsbereich",
+        "li-3": "Produktionslabor: Herstellung von kolloidalem Gold, Herstellung rekombinanter Proteine ​​und Konjugate mit kolloidalem Gold;",
+        "li-4": "Produktionslinie: Serienproduktion von Expresstests bis zur Verpackung fertiger Produkte;",
+        "h3-5": "3. Qualitätskontrollabteilung",
+        "li-5": "Qualitätskontrolle von Rohstoffen, porösen Materialien und anderen Komponenten in allen Produktionsstufen;",
+        "li-6": "Qualitätskontrolle der fertigen Produkte;",
+        "h3-6": "4. Registrierungsabteilung",
+        "li-7": "Erstellung der Dokumentation für die Durchführung staatlicher klinischer und technischer Tests im Ministerium für Gesundheit und soziale Entwicklung der Russischen Föderation, Erhalt von Registrierungsbescheinigungen, Zertifikaten usw.",
+        "h3-7": "5. Lager für Fertigprodukte",
+        "h3-8": "6. Verkaufsbüro",
+        "li-8": "Arbeit mit Kunden, Beratung zur Arbeit mit Tests;",
+        "li-9": "Registrierung der Waren- und Transportdokumentation."
+    },
+    "ourpartners-page": {
+        "title-one": "Unsere partner",
+        "p-1": "LLC \"Bialexa\" ",
+        "p-2": "Labor für Gentechnik, Staatliches Forschungsinstitut für Biochemie, Sibirische Zweigstelle der Russischen Akademie der Medizinischen Wissenschaften ",
+        "p-3": "Institut für Molekularbiologie des Staatlichen Wissenschaftlichen Zentrums für Virologie und Biotechnologie \"Vector\" ",
+        "p-4": "MUZ Novosibirsk Municipal Clinical Hospital of Emergency Medical Care Nr. 2 ",
+        "p-5": "FGBNU \"Forschungsinstitut für Therapie und Präventivmedizin\" ",
+        "p-6": "GBUZ \"City Clinical Hospital benannt nach M.E. Zhadkevich\" ",
+        "p-7": "FGBNU \"Tomsker Nationales Medizinisches Forschungszentrum der Russischen Akademie der Wissenschaften\" Forschungsinstitut für Kardiologie\" ",
+        "p-8": "Krasnojarsker Interdistrikt-Klinisches Krankenhaus für medizinische Notfallversorgung, benannt nach N.S. Karpovich ",
+        "p-9": "FGBNU HE \"Staatliche Medizinische Universität Krasnojarsk, benannt nach Professor V.F. Voino-Yasenetsky \" Gesundheitsministerium der Russischen Föderation ",
+        "p-10": "Russische Kardiologische Gesellschaft ",
+        "p-11": "Allrussische öffentliche Organisation \"Russische Gesellschaft für medizinische Notfallversorgung\" "
+    },
+    "products-page": {
+        "title-1": "Expresstest \"CardioBSJK\"",
+        "li-1": "Über den Test",
+        "li-2": "Rezensionen",
+        "li-3": "Patente",
+        "tabs-about-test": {
+            "strong":"Expresstest \"CardioBSJK\"",
+            "p-1": "ist ein Testsystem zur schnellen bettseitigen Bestimmung erhöhter Werte des frühen kardialen Markers Cardiac Fatty Acid Binding Protein (cFABP) in venösem Vollblut.",
+            "p-2": "Der Einsatz des CardioBSJK-Schnelltests hilft bei der Frühdiagnose eines akuten Myokardinfarkts, insbesondere in den ersten 18 Stunden nach Beginn der klinischen Manifestationen.",
+            "li-1": "mit einem atypischen Krankheitsbild;",
+            "li-2": "bei Fehlen klarer elektrokardiographischer Kriterien (Fehlen einer ST-Strecken-Hebung, vor dem Hintergrund von Schenkelblöcken und narbigen Veränderungen im Myokard)",
+            "h3-1": "Anwendungsgebiete:",
+            "li-3": "Untersuchung eines Patienten zu Hause",
+            "li-4": "Empfang eines Patienten in der Klinik",
+            "li-5": "Im Krankenwagen",
+            "li-6": "Notaufnahme des Krankenhauses",
+            "li-7": "Lab",
+            "li-8": "Jede medizinische Abteilung (BRIT, Abteilung für Kardiologie, Therapie, Chirurgie usw.)",
+            "li-9": "FAP, Erste-Hilfe-Stationen",
+            "h3-2": "Durchführung des Tests und Auswertung der Ergebnisse",
+            "p-3": "Bevor Sie den Test verwenden, lesen Sie bitte die Gebrauchsanweisung sorgfältig durch.",
+            "ol-li-1": "150 µl venöses Vollblut werden in das ovale Fenster der Tablette gegeben.",
+            "ol-li-2": "Das Testergebnis wird visuell in einem rechteckigen Fenster der Tablette nach 15–20 Minuten als positiv (zwei Balken) oder negativ (ein Balken) beurteilt:",
+            "p-4strong": "Funktionelle und technische Eigenschaften des Schnelltests \"CardioBSJK\"",
+            "table": {
+                "td-1": "Funktionsprinzip",
+                "td-2": "Immunchromatographie",
+                "td-3": "Volumen der eingebrachten Blutprobe,",
+                "td-4": "150 µl",
+                "td-5": "Analyseergebnis",
+                "td-6": "Qualität, \"ja-nein\"",
+                "td-7": "Auswertung der Ergebnisse",
+                "td-8": "Visuell, innerhalb von 15–20 Minuten",
+                "td-9": "Hardware",
+                "td-10": "Nicht erforderlich",
+                "td-11": "Empfindlichkeit",
+                "td-12": "ompakte Abmessugen 94x20 mm",
+                "td-15": "L10 ng/ml",
+                "td-13": "Tragbar",
+                "td-14": "Kagerbedingungen",
+                "td-16": "4 – 25 (Grad)",
+                "td-17": "Haltbarkeit",
+                "td-18": "18 Monate",
+                "td-19": "Verpackung",
+                "td-20-p1": "ETK-1-Zehn einzelne versiegelte Packungen mit Trockenmittel in einem Karton.",
+                "td-20-p2": "ETK-2-Zehn einzelne versiegelte Packungen mit einem Trockenmittel in einem Karton + 10 Spritzen mit Nadel + 10 Aufkleber in der Krankengeschichte + 1 Gebrauchsanweisung.",
+                "td-20-p3": "ETK-3-Zehn einzelne versiegelte Packungen mit einem Trockenmittel in einem Karton, zehn Einwegspritzen mit Lithium-Heparin, zehn Aufkleber in der Krankengeschichte, Gebrauchsanweisung."
+            }
+        }
+    }
+}

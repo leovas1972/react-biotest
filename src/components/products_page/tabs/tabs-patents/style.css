@@ -1,0 +1,9 @@
+ol li {
+    font-size: 20px;
+    list-style: square;
+    list-style-position: inside;
+}
+
+li + li {
+    margin-top: 10px;
+}
