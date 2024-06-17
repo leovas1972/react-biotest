@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-biotest/static/css/main.7f3b01ab.css",
+    "main.js": "/react-biotest/static/js/main.12df2001.js",
+    "static/js/453.0936369d.chunk.js": "/react-biotest/static/js/453.0936369d.chunk.js",
+    "static/media/BSMPn2.jpg": "/react-biotest/static/media/BSMPn2.b75580b2fd21dd5c509b.jpg",
+    "static/media/GKB_6_Krasnoyarsk.jpg": "/react-biotest/static/media/GKB_6_Krasnoyarsk.502117bce2003689408c.jpg",
+    "static/media/KGB_Novosibirsk.jpg": "/react-biotest/static/media/KGB_Novosibirsk.a292e7d7dc4f5efec88e.jpg",
+    "static/media/logo1.png": "/react-biotest/static/media/logo1.d704152e00accbabaad7.png",
+    "static/media/yrocho-2jpg.jpg": "/react-biotest/static/media/yrocho-2jpg.37127ce0d22353d2617a.jpg",
+    "static/media/yrocho-1.jpg": "/react-biotest/static/media/yrocho-1.fca8872b41df0bea168d.jpg",
+    "static/media/markov-1.jpg": "/react-biotest/static/media/markov-1.a063fc942673f50dd82a.jpg",
+    "static/media/markov-2.jpg": "/react-biotest/static/media/markov-2.895168148c34d8db727d.jpg",
+    "static/media/krasnoyrsk_1.jpg": "/react-biotest/static/media/krasnoyrsk_1.2f5c71eb6e51f613fe77.jpg",
+    "static/media/header-bg-2.jpg": "/react-biotest/static/media/header-bg-2.52f8f71b8c313d2251af.jpg",
+    "static/media/kracnoyrsk-2jpg.jpg": "/react-biotest/static/media/kracnoyrsk-2jpg.fa2555182e46fb020757.jpg",
+    "static/media/banner-cardio-bszhk.jpg": "/react-biotest/static/media/banner-cardio-bszhk.cb80ac2cbc03fd05b13f.jpg",
+    "static/media/marker.svg": "/react-biotest/static/media/marker.cf3b4135bd5ce23e5eb06074760cf91f.svg",
+    "index.html": "/react-biotest/index.html",
+    "static/media/gb.svg": "/react-biotest/static/media/gb.ba1c7f5df0dd4173c951a644c65e02df.svg",
+    "static/media/getFetch.cjs": "/react-biotest/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "static/media/fr.svg": "/react-biotest/static/media/fr.81d43a151d8bc64145f25bc3d4cdc02a.svg",
+    "static/media/ru.svg": "/react-biotest/static/media/ru.f1c2ba49b3ccc06ba58a3889e1445971.svg",
+    "static/media/de.svg": "/react-biotest/static/media/de.7e82f4c71df5fc78abbb54a6f82ed299.svg",
+    "main.7f3b01ab.css.map": "/react-biotest/static/css/main.7f3b01ab.css.map",
+    "main.12df2001.js.map": "/react-biotest/static/js/main.12df2001.js.map",
+    "453.0936369d.chunk.js.map": "/react-biotest/static/js/453.0936369d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3b01ab.css",
+    "static/js/main.12df2001.js"
+  ]
+}

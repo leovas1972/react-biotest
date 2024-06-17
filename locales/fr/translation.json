@@ -1,0 +1,134 @@
+{
+    "select": {
+        "welcome": "Bonjour utilisateur",
+        "label": "sélection de la langue",
+        "country": "French"
+    },
+    "footer": {
+        "adress": "Russie, 630128 Novossibirsk, rue Kutateladze 4A, bureau 101",
+        "telfax": "Téléphone/fax "
+    },
+    "contacts": {
+        "header": "Contacts"
+    },
+    "navbar": {
+        "navigation":{
+            "company": "À propos de la société",
+            "production": "Production",
+            "products": "Des produits",
+            "contacts": "Contacts"
+        },
+        "select": {
+            "Express test": "\"CardioBSJK\"",
+            "Procalcitonin": "Test de procalcitonine",
+            "Price": "Liste de prix",
+            "proBNP": "MCCI NT-proBNP"
+        }
+    },
+    "mapleflet": {
+        "city": "SARL OBNL \"BioTest\" Novossibirsk",
+        "street": "St. Kutateladze, 4A, bureau 101."
+    },
+    "home_page": {
+        "welcome":"OBNL \"BioTest\"",
+        "p-one": "Les développements scientifiques visant à simplifier l'analyse en laboratoire tout en conservant sa fiabilité et son contenu informatif ont conduit à l'émergence d'une nouvelle classe de systèmes de test. Il s'agit de tests simples et rapides à utiliser qui permettent d'effectuer des tests en dehors du laboratoire et sont collectivement appelés tests sur le lieu de soins.",
+        "title-two": "NPO BioTest maîtrise l'intégralité du processus de développement et lance la production en série de tests rapides immunochromatographiques",
+        "p-two": "en utilisant la technologie « flux latéral », qui est un type de ROST. La réalisation de l'ensemble du cycle technologique de développement et de production des tests express jusqu'au conditionnement des produits finis au sein de l'Association de Recherche et de Production BioTest garantit un contrôle qualité strict à chaque étape de la production et permet de maintenir le faible coût des produits.",
+        "p-three": "En décembre 2008, NPO BioTest a commencé avec succès à produire des systèmes de tests immunochromatographiques conçus pour le diagnostic précoce de diverses maladies humaines. Il s’agit d’un développement unique utilisant les propres solutions techniques et scientifiques de l’entreprise, qui constituent le savoir-faire de l’entreprise et sont protégées par un brevet de la Fédération de Russie. Les médecins ont hautement apprécié les capacités diagnostiques du test et ont particulièrement souligné la simplicité et l'efficacité de la technique."
+    },
+    "aboutcompany-page": {
+        "title-one": "OBNL \"BioTest\"",
+        "p-strong": "OBNL \"BioTest\"",
+        "p-1": "est une entreprise moderne engagée dans le développement et la mise en œuvre de projets de haute technologie dans le domaine de la biotechnologie et de la médecine.",
+        "p-2": "Fondée en 2004",
+        "p-3": "Emplacement - Novossibirsk Akademgorodok.",
+        "p-a1": "Nos ",
+        "p-a2": "partenaires",
+        "p-a3": " Nos ",
+        "p-a4": "publications",
+        "h3-1": "Notre objectif est le développement et la production de tests de diagnostic rapides et modernes de haute technologie destinés à un usage médical professionnel.",
+        "p-4": "Au fil des années, NPO BioTest a maîtrisé le cycle technologique complet de développement de tests de diagnostic non instrumentaux basés sur la technologie à flux latéral. En décembre 2008, la production en série de systèmes de tests immunochromatographiques a été lancée. À ces fins, un une ligne moderne d'équipements de production a été installée ",
+        "h3-2": "La combinaison du haut potentiel technique et personnel de l'entreprise permet à NPO BioTest de produire des tests de diagnostic rapides au niveau des normes mondiales et de maintenir un faible coût des produits.",
+        "p-5": "Les tests express de l'entreprise sont des développements uniques utilisant ses propres solutions techniques et scientifiques, qui sont un savoir-faire et protégés par des brevets de la Fédération de Russie. L'entreprise a développé un système de qualité qui nous permet de contrôler et de garantir une qualité constante des produits à chaque étape de la production",
+        "title-two": "Structure de l'OBNL \"BioTest\"",
+        "h3-3": "1. Laboratoire de recherche et de production",
+        "li-1": "effectuer des travaux de recherche, sélectionner les domaines actuels pour le diagnostic des maladies ;",
+        "li-2": "réaliser des travaux de recherche et développement - créer des prototypes de systèmes de test, mener des essais précliniques et cliniques en collaboration avec des établissements de santé spécialisés de premier plan ;",
+        "h3-4": "2. Zone de production",
+        "li-3": "laboratoire de production : production d'or colloïdal, production de protéines recombinantes et de conjugués avec de l'or colloïdal ;",
+        "li-4": "ligne de production : production en série de tests express jusqu'au conditionnement des produits finis ;",
+        "h3-5": "3. Service de contrôle qualité",
+        "li-5": "contrôle qualité des matières premières, des matériaux poreux et autres composants à toutes les étapes de la production ;",
+        "li-6": "contrôle qualité des produits finis ;",
+        "h3-6": "4. Service d'inscription",
+        "li-7": "préparation de la documentation pour la réalisation d'essais cliniques et techniques d'État au ministère de la Santé et du Développement social de la Fédération de Russie, l'obtention de certificats d'enregistrement, de certificats, etc.",
+        "h3-7": "5. Entrepôt de produits finis",
+        "h3-8": "6. Bureau des ventes",
+        "li-8": "travail avec les clients, consultations sur l'utilisation des tests ;",
+        "li-9": "enregistrement des documents de marchandises et de transport"
+    },
+    "ourpartners-page": {
+        "title-one": "Nos partenaires",
+        "p-1": "SARL \"Bialexa\"",
+        "p-2": "Laboratoire de génie génétique, Institut national de recherche en biochimie, branche sibérienne de l'Académie russe des sciences médicales ",
+        "p-3": "Institut de biologie moléculaire du Centre scientifique d'État de virologie et de biotechnologie \"Vector\" ",
+        "p-4": "Hôpital clinique municipal de soins médicaux d'urgence MUZ Novossibirsk n° 2 ",
+        "p-5": "FGBNU \"Institut de Recherche en Thérapie et Médecine Préventive\" ",
+        "p-6": "GBUZ \"Hôpital clinique municipal nommé d'après M.E. Zhadkevich\" ",
+        "p-7": "FGBNU \"Centre médical national de recherche de Tomsk de l'Académie des sciences de Russie \"Institut de recherche en cardiologie\"\" ",
+        "p-8": "Hôpital clinique interdistrict de Krasnoyarsk de soins médicaux d'urgence nommé d'après N.S. Karpovich ",
+        "p-9": "FGBNU HE\"Université médicale d'État de Krasnoïarsk du nom du professeur V.F. Voino-Yasenetsky\" Ministère de la Santé de la Fédération de Russie ",
+        "p-10": "Société russe de cardiologie ",
+        "p-11": "Organisation publique panrusse \"Société russe de soins médicaux d'urgence\" "
+    },
+    "products-page": {
+        "title-1": "Test express \"CardioBSJK\"",
+        "li-1": "À propos de l'examen",
+        "li-2": "Commentaires",
+        "li-3": "Brevets",
+        "tabs-about-test": {
+            "strong":"Test express \"CardioBSJK\"",
+            "p-1": "est un système de test pour la détermination rapide au chevet des niveaux élevés de la protéine de liaison aux acides gras cardiaques (cFABP), un marqueur cardiaque précoce, dans le sang total veineux.",
+            "p-2": "L'utilisation du test rapide CardioBSJK contribue au diagnostic précoce de l'infarctus aigu du myocarde, en particulier dans les 18 premières heures suivant l'apparition des manifestations cliniques",
+            "li-1": "avec un tableau clinique atypique ;",
+            "li-2": "en l'absence de critères électrocardiographiques clairs (absence d'élévation du segment ST, sur fond de blocs de branche et de modifications cicatricielles du myocarde)",
+            "h3-1": "Domaines d'application : ",
+            "li-3": "Examen d'un patient à domicile",
+            "li-4": "Accueil d'un patient à la clinique",
+            "li-5": "Dans l'ambulance",
+            "li-6": "Salle d'urgence de l'hôpital",
+            "li-7": "Labo",
+            "li-8": "Tout service médical (BRIT, service de cardiologie, thérapie, chirurgie, etc.)",
+            "li-9": "FAP, postes de secours",
+            "h3-2": "Mise en scène du test et évaluation des résultats",
+            "p-3": "Avant de commencer à utiliser le test, veuillez lire attentivement le mode d'emploi.",
+            "ol-li-1": "150 µl de sang veineux total sont ajoutés dans la fenêtre ovale du comprimé.",
+            "ol-li-2": "Le résultat du test est évalué visuellement dans une fenêtre rectangulaire du comprimé après 15 à 20 minutes comme positif (deux barres) ou négatif (une barre) :",
+            "p-4strong": "Caractéristiques fonctionnelles et techniques du test rapide \"CardioBSJK\"",
+            "table": {
+                "td-1": "Principe de fonctionnement",
+                "td-2": "Immunochromatographie",
+                "td-3": "Volume d'échantillon de sang introduit",
+                "td-4": "150 µl",
+                "td-5": "Résultat de l'analyse",
+                "td-6": "Qualité, \"oui-non\"",
+                "td-7": "Évaluation des résultats",
+                "td-8": "Visuel, dans 15-20 minutes",
+                "td-9": "Matériel",
+                "td-10": "Non requis",
+                "td-11": "Sensibilité",
+                "td-12": "10 ng/ml",
+                "td-13": "Portable",
+                "td-14": "Dimensions compactes 94x20 mm",
+                "td-15": "Conditions de stockage",
+                "td-16": "4 - 25(degrés)",
+                "td-17": "Durée de conservation",
+                "td-18": "18 mois",
+                "td-19": "Emballage",
+                "td-20-p1": "ETK-1-Dix emballages individuels scellés avec déshydratant dans une boîte en carton.",
+                "td-20-p2": "ETK-2-Dix emballages individuels scellés avec un déshydratant dans une boîte en carton + 10 seringues avec une aiguille + 10 autocollants dans les antécédents médicaux + 1 mode d'emploi.",
+                "td-20-p3": "ETK-3-Dix emballages individuels scellés avec un déshydratant dans une boîte en carton, dix seringues jetables contenant de l'héparine de lithium, dix autocollants contenant les antécédents médicaux, un mode d'emploi."
+            }
+        }
+    }
+}
